@@ -3,6 +3,7 @@
 [![Build Status](https://github.com/vishwas1984/LaplaceInterpolation.jl/actions/workflows/CI.yml/badge.svg)](https://github.com/vishwas1984/LaplaceInterpolation.jl/actions)
 [![](https://img.shields.io/badge/docs-stable-blue.svg)](https://vishwas1984.github.io/LaplaceInterpolation.jl/stable)
 [![](https://img.shields.io/badge/docs-dev-blue.svg)](https://vishwas1984.github.io/LaplaceInterpolation.jl/dev)
+[![status](https://joss.theoj.org/papers/00d8d848d3644d8ac98f746ad236a6e3/status.svg)](https://joss.theoj.org/papers/00d8d848d3644d8ac98f746ad236a6e3)
 
 This code performs Laplace and Matern interpolation where missing data are on a one, two, or three
 dimensional grid. Matern
